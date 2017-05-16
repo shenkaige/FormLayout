@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormLayout</string>
+    <string name="form_name">UserName</string>
+    <string name="form_age">Age</string>
+    <string name="form_gender">Gender</string>
+    <string name="form_job">Job</string>
+    <string name="form_salary">Salary(CNY)</string>
+</resources>
