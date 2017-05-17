@@ -104,5 +104,5 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     }
 ```
 ### 效果图
-![image](https://github.com/shenkaige/FormLayout/validate.png)
-![image](https://github.com/shenkaige/FormLayout/result.png)
+![image](https://github.com/shenkaige/FormLayout/blob/master/screenshot/validate.png)
+![image](https://github.com/shenkaige/FormLayout/blob/master/screenshot/result.png)
